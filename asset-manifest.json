@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buscador-github/static/css/main.f8022c25.css",
+    "main.js": "/buscador-github/static/js/main.06d8e1e4.js",
+    "index.html": "/buscador-github/index.html",
+    "main.f8022c25.css.map": "/buscador-github/static/css/main.f8022c25.css.map",
+    "main.06d8e1e4.js.map": "/buscador-github/static/js/main.06d8e1e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8022c25.css",
+    "static/js/main.06d8e1e4.js"
+  ]
+}
