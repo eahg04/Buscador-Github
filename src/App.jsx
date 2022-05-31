@@ -6,7 +6,7 @@ import User from './components/pages/User/User';
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/buscador-github">
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/user/:login' element={<User />} />
